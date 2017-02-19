@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: HidePlayerFrames
+## Author: Keyboardturner
+## Notes: Hides Specifically the Blizzard Target and Player Frames
+## Version: 0.1
+
+HidePlayerFrames.lua
